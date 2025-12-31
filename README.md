@@ -1,5 +1,4 @@
-# N.E.R.D
-## Named Entity Recognition & Disambiguation
+# Named Entity Recognition & Disambiguation
 
 A Deep learning–powered Named Entity Recognition (NER) system designed to identify, classify, and disambiguate entities in natural language text. Built using state-of-the-art NLP models, it supports extracting structured information from unstructured data with high accuracy.
 
